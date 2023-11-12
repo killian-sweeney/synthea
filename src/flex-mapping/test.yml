@@ -1,0 +1,26 @@
+---
+# name is just a friendly name for this mapping
+name: Flexporter Mapping
+
+# applicability determines whether this mapping applies to a given file.
+# for now the assumption is 1 file = 1 synthea patient bundle.
+# this should be a FHIRPath which should return a "truthy" value if the mapping applies
+applicability: true
+
+# actions is a list of Action objects. see below for details
+actions:
+ - name: testSetValues_object
+   set_values:
+     - applicability: Patient
+       fields:
+         - location: Patient.maritalStatus.coding
+           value:
+               system: http://snomedct.io
+               code: "36629006"
+               display: "Legally married (finding)"
+ - name: Apply Profiles
+   profiles:
+   - profile: https://build.fhir.org/ig/HL7/carin-digital-insurance-card/StructureDefinition-C4DIC-Patient
+     applicability: Patient
+   - profile: https://build.fhir.org/ig/HL7/carin-digital-insurance-card/StructureDefinition-C4DIC-Coverage
+     applicability: Coverage     

@@ -1,0 +1,20 @@
+---
+# name is just a friendly name for this mapping
+name: Flexporter Mapping
+
+# applicability determines whether this mapping applies to a given file.
+# for now the assumption is 1 file = 1 synthea patient bundle.
+# this should be a FHIRPath which should return a "truthy" value if the mapping applies
+applicability: true
+
+# actions is a list of Action objects. see below for details
+actions:
+ - name: testSetValues_object
+   set_values:
+     - applicability: Patient
+       fields:
+         - location: Patient.identifier
+           value:
+               system: systemsGO
+               code: "memberId"
+               display: "test COMPLETE"
