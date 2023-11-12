@@ -17,10 +17,4 @@ actions:
            value:
                system: http://snomedct.io
                code: "36629006"
-               display: "Legally married (finding)"
- - name: Apply Profiles
-   profiles:
-   - profile: https://build.fhir.org/ig/HL7/carin-digital-insurance-card/StructureDefinition-C4DIC-Patient
-     applicability: Patient
-   - profile: https://build.fhir.org/ig/HL7/carin-digital-insurance-card/StructureDefinition-C4DIC-Coverage
-     applicability: Coverage     
+               display: "Legally married (finding)"   

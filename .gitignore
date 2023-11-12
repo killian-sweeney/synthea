@@ -19,8 +19,6 @@ bin/**
 # don't commit the autobuilt version file
 src/main/resources/version.txt
 
-src/flex-mapping/C4DIC-IG
-
 # don't commit the code maps
 src/main/resources/export/condition_code_map.json
 src/main/resources/export/medication_code_map.json
