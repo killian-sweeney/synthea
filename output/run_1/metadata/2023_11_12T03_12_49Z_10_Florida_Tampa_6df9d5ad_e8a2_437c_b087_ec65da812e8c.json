@@ -1,0 +1,20 @@
+{
+  "runID": "6df9d5ad-e8a2-437c-b087-ec65da812e8c",
+  "seed": 1699758769189,
+  "clinicianSeed": 1699758769189,
+  "referenceTime": "20231112",
+  "endTime": "20231112",
+  "version": "6ebc9335\n",
+  "patientCount": 10,
+  "providerCount": 5355,
+  "payerCount": 9,
+  "javaVersion": "11.0.19",
+  "generate.thread_pool_size": -1,
+  "generatorThreads": 24,
+  "runStartTime": "2023-11-12T03:12:49Z",
+  "runTimeInSeconds": 7,
+  "exporter.years_of_history": "10",
+  "city": "Tampa",
+  "state": "Florida",
+  "modules": "*"
+}

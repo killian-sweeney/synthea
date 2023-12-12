@@ -1,0 +1,33 @@
+Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+1b68c064-c583-a72e-e972-9a039fd53e36,2015-08-17,,b668a9bb-6880-adc2-4432-5b8850f26c09,9b1ccf0b-8171-67f9-4ea7-84df960ee603,443402002,Lifestyle education regarding hypertension,59621000,Essential hypertension (disorder)
+a1a66f3f-eb7d-012d-2813-8a088ba679d1,2005-06-11,,64f01a84-003b-bd44-a314-2043c85401f5,3d435f16-9d4b-0f6d-d5d1-22548134d056,443402002,Lifestyle education regarding hypertension,59621000,Essential hypertension (disorder)
+0ff73d2c-f43f-4229-3656-f5f6626f2c66,2013-05-12,,44ade1e1-11cc-624b-2d51-3135e063e179,3589fbe2-6e1e-57e6-a80a-66b52afc752c,698360004,Diabetes self management plan,15777000,Prediabetes
+ec90115f-42cc-e416-e601-8b2a00e788b3,2013-09-04,2014-04-02,49b72433-8fc5-771c-dc9b-d98a15703f86,3d70f07f-0375-34ae-f993-1f734eb1c6b6,134435003,Routine antenatal care,,
+a6f5efad-cc31-2294-1ef8-99381687ce11,2014-02-03,2014-03-05,64f01a84-003b-bd44-a314-2043c85401f5,c5925bb4-d8d9-b94c-a5ab-56a08a58ad15,276239002,Therapy (regime/therapy),,
+c2aa35b1-f81d-066c-abaa-12be588d2484,2019-03-25,2019-05-19,44ade1e1-11cc-624b-2d51-3135e063e179,92571b99-6ac6-f5a7-e8d6-381d9fb59ced,53950000,Respiratory therapy,,
+9a3700ff-9993-0ff2-0204-23f4aa8c23a9,1994-05-09,,df7e7dcb-cdfa-5aa1-6204-74f192df114d,22c4d13b-e48f-c444-1918-bc6fe4612b47,698360004,Diabetes self management plan,15777000,Prediabetes
+f11c216e-783c-d823-8f47-dd7fe22333d2,2020-03-13,2020-03-27,44ade1e1-11cc-624b-2d51-3135e063e179,a9118fdb-4878-799b-9ccb-f380ee42cff1,225358003,Wound care,283385000,Laceration of thigh
+3ed9e9ad-e36a-2f26-2520-93f9b3d25883,2018-11-14,2019-06-13,49b72433-8fc5-771c-dc9b-d98a15703f86,f4fa1287-3744-7d2e-3338-ae3f76cde4ab,134435003,Routine antenatal care,,
+6b067f98-71c8-4ace-e62a-5832b45849b0,2021-12-19,2022-08-07,44ade1e1-11cc-624b-2d51-3135e063e179,4155e9e1-5ac9-0583-da82-ff37454147cc,134435003,Routine antenatal care,,
+c2db3c01-d891-3943-2327-3af6122c03f4,2017-03-20,,df7e7dcb-cdfa-5aa1-6204-74f192df114d,11a8f942-3fff-eb17-29e7-871e579517e5,734163000,Care plan (record artifact),78275009,Obstructive sleep apnea syndrome (disorder)
+65afe1d7-2bba-c226-3a47-2e5b53a49f86,2017-07-04,2017-07-22,df7e7dcb-cdfa-5aa1-6204-74f192df114d,e721090c-fedc-7c60-65e5-057d755d60e4,773513001,Physiotherapy care plan (record artifact),44465007,Sprain of ankle
+113325ab-d296-40a8-f34d-ee9de5a59ee2,2019-08-13,2019-08-20,49b72433-8fc5-771c-dc9b-d98a15703f86,4ca65c91-c352-343d-d52d-ccea95c490f0,773593000,Urology care plan (record artifact),301011002,Escherichia coli urinary tract infection
+e0b1027f-c727-ebf5-5c82-4a31f25d55b4,2018-03-26,,df7e7dcb-cdfa-5aa1-6204-74f192df114d,23997899-1f1e-16c0-de1e-975feeb7dcd8,443402002,Lifestyle education regarding hypertension,59621000,Essential hypertension (disorder)
+d60ce49c-d4ee-d714-e2dd-5e4ec84564e9,2020-01-29,2020-09-02,49b72433-8fc5-771c-dc9b-d98a15703f86,d96f2237-f796-d92c-7c14-8b50002cc9e1,134435003,Routine antenatal care,,
+af2a28ea-c052-c82a-13c3-4970b6c8c40f,2022-01-15,2022-04-18,df7e7dcb-cdfa-5aa1-6204-74f192df114d,c49b3ade-2ac5-eecb-5192-465fa2c92a4a,53950000,Respiratory therapy,,
+0aacdbf7-970a-cd3b-dfb2-da07f2344a28,2022-12-25,2023-07-09,44ade1e1-11cc-624b-2d51-3135e063e179,d18f172e-9d2f-5cbc-8583-ce2459d2c4bc,134435003,Routine antenatal care,,
+5072c8c7-03c8-1ff6-e8b6-a1fda547f91a,1996-08-24,,7d00f07b-2a68-7bee-bd5a-d97ba47d0e17,093653e1-90aa-7317-0780-cccb46d3beba,443402002,Lifestyle education regarding hypertension,59621000,Essential hypertension (disorder)
+cccc8526-d725-d6ef-99fb-d81c72fadbfc,2007-10-27,,7d00f07b-2a68-7bee-bd5a-d97ba47d0e17,1b84203c-b46e-3764-bdc6-a3926a16fce5,698360004,Diabetes self management plan,15777000,Prediabetes
+f50bbd41-96ab-930d-5a42-20aaae878fb6,2014-02-03,2014-03-06,7d00f07b-2a68-7bee-bd5a-d97ba47d0e17,19c925aa-e1a0-e1b1-d1fe-58af7ee784af,276239002,Therapy (regime/therapy),,
+446db21d-78aa-2db5-caa5-ab1e08077456,2017-11-26,2020-06-20,7d00f07b-2a68-7bee-bd5a-d97ba47d0e17,0cfc520e-22e5-cd8a-ec6f-c8d74980521f,395082007,Cancer care plan,363406005,Malignant tumor of colon
+5b501f90-2772-06bf-b957-868ad888cee9,2017-12-09,2017-12-26,7d00f07b-2a68-7bee-bd5a-d97ba47d0e17,90f86257-5c6b-660e-aa7f-f7a5199da1e9,737567002,Major surgery care management (procedure),363406005,Malignant tumor of colon
+1d019fff-c5dd-0347-da47-15170540dbc4,2023-08-25,2023-10-29,7d00f07b-2a68-7bee-bd5a-d97ba47d0e17,38b1bc3f-40b8-97c3-7d01-78feaf14012c,385691007,Fracture care,263102004,Fracture subluxation of wrist
+0f387085-ba0f-7a45-a499-58ad4d038181,1968-03-16,1968-10-19,1bdbd974-9b1a-adf3-dd13-ce707d503c15,4571f699-26bd-a12a-0337-d91f2e206bcc,134435003,Routine antenatal care,,
+bf20b81f-dc20-ce80-6e56-84270520d35b,1972-10-14,,1bdbd974-9b1a-adf3-dd13-ce707d503c15,669c61e8-89bd-0951-a7a5-bfbf3d5a051f,698360004,Diabetes self management plan,15777000,Prediabetes
+81d0a694-7c0e-55e6-90c6-be608f2e875b,1973-02-17,1973-09-22,1bdbd974-9b1a-adf3-dd13-ce707d503c15,8aa5ed82-7fbd-a031-cd4c-2cdda04c6a20,134435003,Routine antenatal care,,
+7e8c3865-a86f-b8ef-6911-f294e00b3d3f,1975-01-25,1975-08-30,1bdbd974-9b1a-adf3-dd13-ce707d503c15,41699956-90e4-c492-67a0-1509f28f6d11,134435003,Routine antenatal care,,
+a59cc3fb-1a8a-60e4-5497-aab948d915c6,1981-10-24,,1bdbd974-9b1a-adf3-dd13-ce707d503c15,bc5f0ae7-f860-40f3-b2ca-710a12f83c61,443402002,Lifestyle education regarding hypertension,59621000,Essential hypertension (disorder)
+26d9878b-4c28-e3f8-f3fd-3ff42ade7edf,1990-11-03,,1bdbd974-9b1a-adf3-dd13-ce707d503c15,49163dfc-d34e-cf7e-2c87-d1e9e66b7ef5,134435003,Routine antenatal care,,
+881dbe35-dcfc-800a-4ca0-770845142132,2017-11-17,2017-12-14,1bdbd974-9b1a-adf3-dd13-ce707d503c15,c7025b92-f1f1-cdd6-6c9c-d9a2fdb667ea,773513001,Physiotherapy care plan (record artifact),70704007,Sprain of wrist
+8b163c00-57b7-9ee9-9c31-fe4879ce82a0,2019-11-27,2020-01-28,1bdbd974-9b1a-adf3-dd13-ce707d503c15,4adabb65-17d2-dfff-81ac-3b6bdf8277d3,385691007,Fracture care,263102004,Fracture subluxation of wrist
+99694540-08b9-bffe-d720-af484b9bf7d9,2021-05-01,2021-05-20,1bdbd974-9b1a-adf3-dd13-ce707d503c15,07c52d55-8c7f-5da9-16a5-b6bf463c464f,53950000,Respiratory therapy,,

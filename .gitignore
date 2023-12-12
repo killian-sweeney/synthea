@@ -11,7 +11,7 @@ bin/**
 /bin/
 
 /failed_exports/
-/output/
+# /output/
 /out/
 
 **/*.log
